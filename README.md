@@ -1,3 +1,3 @@
-# Petals Template
+# Petals Form-control
 
-Scaffold template for petals (components)
+Form-control virtual component
